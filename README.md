@@ -18,9 +18,3 @@ How to play Pokémon Nemesis on Mac OS X: https://pokemonnemesis.altervista.org/
 3. Linux
 
 How to play Pokémon Nemesis on Linux: https://pokemonnemesis.altervista.org/web/linux.php
-
-## Open Source Libraries
-
-- Title Screen by Luka SJ.
-- GTS by Hansiec and Manoel Afonso.
-- Elite Battle System by Luka SJ.
