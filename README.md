@@ -24,4 +24,3 @@ How to play Pokémon Nemesis on Linux: https://pokemonnemesis.altervista.org/web
 - Title Screen by Luka SJ.
 - GTS by Hansiec and Manoel Afonso.
 - Elite Battle System by Luka SJ.
-- Manage Save File by Pokémon Apex Launcher.
