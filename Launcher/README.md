@@ -16,3 +16,6 @@
 - Sistemato il redirect a Instagram.
 - Sistemato il bug visivo dell'icona triangolo.
 
+##Open Source Libraries
+
+- Manage Save File by Pokémon Apex Launcher.
