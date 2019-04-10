@@ -10,3 +10,8 @@
 - Sistemati errori di battitura.
 - Migliorate sprite di gioco.
 
+## Open Source Libraries
+
+- Title Screen by Luka SJ.
+- Elite Battle System by Luka SJ.
+- GTS by Hansiec and Manoel Afonso.
