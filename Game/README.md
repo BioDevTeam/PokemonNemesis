@@ -12,6 +12,11 @@
 - Sistemati errori di battitura.
 - Migliorate sprite di gioco.
 
+## VERSIONE FINALE
+### Changelog
+
+In fase di sviluppo... Altre informazioni su https://pokemonnemesis.altervista.org
+
 ## Open Source Libraries
 
 - Title Screen by Luka SJ.
