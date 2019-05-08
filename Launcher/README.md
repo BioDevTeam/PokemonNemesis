@@ -18,4 +18,4 @@
 
 ## Open Source Libraries
 
-- Manage Save File by Pokémon Apex Launcher.
+- Save File Manager by Pokémon Apex Launcher.
