@@ -7,4 +7,4 @@
 | -------------------------------:|----------------------:|----------------------:|-----------------------:
 | Mirror: 1 [Google Drive] (Setup)| <a href="https://bit.ly/2znO5aq">Download [Mirror 1]</a>| /                     | /                     | 
 | Mirror: 2 [Mediafire] (Setup)   | <a href="https://bit.ly/2u0QYJ5">Download [Mirror 2]</a>| /                     | /                     |   
-| Mirror: 3 [Google Drive] (.zip) | <a href="https://bit.ly/2zgHZbt">Download [Mirror 2]</a>| <a href="http://bit.ly/2X7GQJZ">Download + Tutorial</a>| <a href="http://bit.ly/323xOlh">Download + Tutorial</a>                    | 
+| Mirror: 3 [Google Drive] (.zip) | <a href="https://bit.ly/2zgHZbt">Download [Mirror 3]</a>| <a href="http://bit.ly/2X7GQJZ">Download + Tutorial</a>| <a href="http://bit.ly/323xOlh">Download + Tutorial</a>                    | 
