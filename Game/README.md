@@ -3,14 +3,22 @@
 ## DEMO
 ### Changelog
 
-1.0
+1.0.0
 
 - Hello world!
    
 1.0.1
 
 - Sistemati errori di battitura.
-- Migliorate sprite di gioco.
+- Migliorate le sprite di gioco.
+- Aggiunti i link ai social.
+- Aggiunta la possibilità di valutare il gioco.
+- Rimosso il pulsante "Stato dei server".
+
+1.0.2
+
+- Sistemato il redirect a Instagram.
+- Sistemato il bug visivo dell'icona triangolo.
 
 ## VERSIONE FINALE
 ### Changelog
